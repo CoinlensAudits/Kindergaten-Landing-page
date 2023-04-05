@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to ABC Kindergarten</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>ABC Kindergarten</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#curriculum">Curriculum</a></li>
+                <li><a href="#staff">Staff</a></li>
+                <li><a href="#events">Events</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero-image">
+            <h2>Welcome to ABC Kindergarten</h2>
+        </section>
+        <section class="about" id="about">
+            <h2>About Us</h2>
+            <p>ABC Kindergarten is a nurturing and supportive environment where your child can learn, grow, and thrive. Our dedicated teachers are committed to providing the highest quality education to help your child reach their full potential.</p>
+            <a href="#">Learn More</a>
+        </section>
+        <section class="curriculum" id="curriculum">
+            <h2>Curriculum</h2>
+            <p>Our curriculum is designed to engage and challenge children at every age and stage of development. We focus on building a strong foundation in literacy, math, and social-emotional development through hands-on, play-based learning.</p>
+            <a href="#">View Curriculum</a>
+        </section>
+        <section class="staff" id="staff">
+            <h2>Our Staff</h2>
+            <p>Our dedicated team of experienced educators are committed to providing the highest quality education to help your child reach their full potential. Learn more about our staff and their qualifications.</p>
+            <a href="#">Meet Our Staff</a>
+        </section>
+        <section class="events" id="events">
+            <h2>Upcoming Events</h2>
+            <p>Stay up-to-date on all the latest events happening at ABC Kindergarten, including parent-teacher conferences, field trips, and holiday celebrations.</p>
+            <a href="#">View Calendar</a>
+        </section>
+        <section class="contact" id="contact">
+            <h2>Contact Us</h2>
+            <p>Get in touch with us to learn more about our kindergarten, schedule a tour, or enroll your child.</p>
+            <a href="#">Contact Us</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 ABC Kindergarten</p>
+    </footer>
+</body>
+</html>
